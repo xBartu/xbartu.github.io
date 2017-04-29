@@ -2,8 +2,8 @@
 layout: post
 title: "Hi, I am finally back!"
 description: "This is a try!"
-category: 
-tags: []
+category: Life
+tags: [life, welcome back]
 ---
 Hi folks,
 
